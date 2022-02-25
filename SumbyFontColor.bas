@@ -1,5 +1,5 @@
 Attribute VB_Name = "Modul1"
-Function CountCcolor(range_data As Range) As Integer
+Function SumbyFontColor(range_data As Range) As Integer
    
     Dim cellx As Range
     Dim countF As Integer
