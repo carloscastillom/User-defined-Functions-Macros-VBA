@@ -14,7 +14,7 @@ Function SumbyFontColor(range_data As Range) As Integer
         
     Next cellx
 
-    CountCcolor = countF
+    SumbyFontColor = countF
 End Function
 
 
