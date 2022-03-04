@@ -1,6 +1,6 @@
-Attribute VB_Name = "Modul1"
-Function CAGR(Yt As Variant, Y0 As Variant, Period As Variant)
+
+Function CAGR(Yt As Variant, Y0 As Variant, T As Variant)
 'Keyword Compound Annual Growth Rate (CAGR)
- CAGR = (Yt / Y0) ^ (1 / Period) - 1
+ CAGR = (Yt / Y0) ^ (1 / T) - 1
 End Function
 
