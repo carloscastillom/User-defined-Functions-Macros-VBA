@@ -10,7 +10,7 @@ Funtions and Macros that can be used in excel to improve the usability of the so
 
   Macro that updates all the Pivot tables in the workbook.
 
-- [CAGR](https://github.com/carloscastillom/User-defined-Functions-Macros-VBA/blob/main/CAGR.bas) 
+- [CAGR(Yt: Final Value, Y0: Initial Value, T: Period)](https://github.com/carloscastillom/User-defined-Functions-Macros-VBA/blob/main/CAGR.bas) 
 
   Function that calculates the compound anual growth rate between two values and the amount of periods (Yt: Final Value, Y0: Initial Value, T: Period)
 
