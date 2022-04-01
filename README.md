@@ -6,10 +6,12 @@ Funtions and Macros that can be used in excel to improve the usability of the so
 
   Function that sums the value of a cell of an specific color Font. In case you need a different condition please modify it.
   
-  ```Function CAGR(Yt As Variant, Y0 As Variant, T As Variant)
-     'Keyword Compound Annual Growth Rate (CAGR)
-      CAGR = (Yt / Y0) ^ (1 / T) - 1
-      End Function```
+  ```
+  Function CAGR(Yt As Variant, Y0 As Variant, T As Variant)
+  'Keyword Compound Annual Growth Rate (CAGR)
+  CAGR = (Yt / Y0) ^ (1 / T) - 1
+  End Function
+  ```
 
 - [RefresAllPivot()](https://github.com/carloscastillom/User_defined_Functions_VBA/blob/main/RefreshAllPivotTables.bas)
 
