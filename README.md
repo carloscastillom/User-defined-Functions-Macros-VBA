@@ -1,6 +1,5 @@
 # User defined Functions and Macros VBA
-Funtions and Macros that can be used in excel to improve the usability of the software
-
+Funtions and Macros that can be used in excel to improve the usability of the software. I have use this for work and personal purposes
 
 - [SumByFontColor()](https://github.com/carloscastillom/User_defined_Functions_VBA/blob/main/SumbyFontColor.bas)
 
