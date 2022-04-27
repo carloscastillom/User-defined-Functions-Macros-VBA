@@ -50,3 +50,10 @@ Funtions and Macros that can be used in excel to improve the usability of the so
   End Function
   ```
 
+- cahnge color background of a cell
+- 
+
+
+Find other useful Funtions or macros
+
+
